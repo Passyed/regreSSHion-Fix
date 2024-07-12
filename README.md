@@ -26,5 +26,6 @@ cd regreSSHion-Fix
 chmod +x regreSSHion-Fix.sh
 
 ./regreSSHion-Fix.sh
+
  ------------------------------------------------------------------------------------
 Una vez ejecutado e actualizado OpenSSH verificar la versión utilizando `ssh -V`
